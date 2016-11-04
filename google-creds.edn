@@ -1,0 +1,7 @@
+{:client-id "574468145582-kv10g8tdtje95epc77iq5qs188tb3g6s.apps.googleusercontent.com"
+ :client-secret "rNhw2-lvNAa_mGRGIY_mblNO"
+ :redirect-uris ["URI 1" "URI 2"]
+ :auth-map {:access-token "YOUR ACCESS TOKEN"
+            :expires-in 1234
+            :refresh-token "YOUR REFRESH TOKEN"
+            :token-type "Bearer"}}
